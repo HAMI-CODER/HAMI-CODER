@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hami-coder" alt="hami-coder" /></a> </p>
 
-- ⚡ Fun fact **Yes I am nkt funny but people see me and smiles so I am funny**
+- ⚡ Fun fact **Yes I am not funny but people see me and smiles so I am funny**👀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
